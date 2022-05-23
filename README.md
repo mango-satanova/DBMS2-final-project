@@ -1,5 +1,5 @@
-# SDU poortal
-A portal management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
+# SDU portal
+A portal management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table. The project was supposed to be with PL/SQL, so I firstly do with MySQL. 
 
 ## Installation
 
@@ -61,7 +61,7 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Teacher Page
 
-![alt text](https://imgur.com/pMAoEbG.png)
+![alt text]()
 
 ![alt text](https://imgur.com/ZiQ3RRA.png)
 
