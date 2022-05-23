@@ -83,20 +83,17 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Student Page
 
-![alt text](https://imgur.com/isL9cjz.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 43 56" src="https://user-images.githubusercontent.com/91027496/169812179-62818e87-b749-4323-8ff0-2e41c455a009.png">
 
-![alt text](https://imgur.com/5pzl7m3.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 44 21" src="https://user-images.githubusercontent.com/91027496/169812235-e977d39e-b150-41ab-85c4-d1c663efaf62.png">
 
-![alt text](https://imgur.com/7zWhHZx.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 44 38" src="https://user-images.githubusercontent.com/91027496/169812277-4b11b8b6-1ccf-43f9-8e26-6edad0b67c8e.png">
 
-![alt text](https://imgur.com/fu7gxk8.png)
-
-![alt text](https://imgur.com/NZqU268.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 44 54" src="https://user-images.githubusercontent.com/91027496/169812303-5be0883c-7670-43fb-b0e6-3aa6cbb998ed.png">
 
 ### Admin Page
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 45 40" src="https://user-images.githubusercontent.com/91027496/169812396-e89962ce-972d-4bc3-addc-b118293279d9.png">
 
-![alt text](https://imgur.com/sDvDc9N.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 46 02" src="https://user-images.githubusercontent.com/91027496/169812453-ac5f8bfc-76f3-47ba-b91e-4272edcc8f4d.png">
 
-![alt text](https://imgur.com/tMKWx6f.png)
-
-![alt text](https://imgur.com/PvCsNeB.png)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 46 20" src="https://user-images.githubusercontent.com/91027496/169812496-d072327f-036e-498a-916f-4db8bd437dea.png">
