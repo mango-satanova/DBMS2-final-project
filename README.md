@@ -61,24 +61,24 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Teacher Page
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 34 44" src="https://user-images.githubusercontent.com/91027496/169810596-24125fc5-972f-42ec-b613-2c8ccfdc8a64.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 34 44" src="https://user-images.githubusercontent.com/91027496/169810596-24125fc5-972f-42ec-b613-2c8ccfdc8a64.png">
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 35 52" src="https://user-images.githubusercontent.com/91027496/169810786-9c9e63b3-771b-4902-8358-bd2fc48388ce.png">)
-
-
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 36 35" src="https://user-images.githubusercontent.com/91027496/169810927-db018263-c968-4965-9656-3f006f3e1620.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 35 52" src="https://user-images.githubusercontent.com/91027496/169810786-9c9e63b3-771b-4902-8358-bd2fc48388ce.png">
 
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 37 14" src="https://user-images.githubusercontent.com/91027496/169811050-752f4105-24ae-47fe-803e-a86db0b2d15e.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 36 35" src="https://user-images.githubusercontent.com/91027496/169810927-db018263-c968-4965-9656-3f006f3e1620.png">
 
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 37 43" src="https://user-images.githubusercontent.com/91027496/169811139-f06b6ead-48bc-4ae6-9f5b-bbb7fa21d8e3.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 37 14" src="https://user-images.githubusercontent.com/91027496/169811050-752f4105-24ae-47fe-803e-a86db0b2d15e.png">
 
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 38 15" src="https://user-images.githubusercontent.com/91027496/169811236-e978a313-6986-477d-baec-be05333e3c1e.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 37 43" src="https://user-images.githubusercontent.com/91027496/169811139-f06b6ead-48bc-4ae6-9f5b-bbb7fa21d8e3.png">
 
 
-![alt text](<img width="1440" alt="Screen Shot 2022-05-23 at 17 38 41" src="https://user-images.githubusercontent.com/91027496/169811296-bb4c9355-d84e-4e22-a27c-7b6721894ce1.png">)
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 38 15" src="https://user-images.githubusercontent.com/91027496/169811236-e978a313-6986-477d-baec-be05333e3c1e.png">
+
+
+<img width="1440" alt="Screen Shot 2022-05-23 at 17 38 41" src="https://user-images.githubusercontent.com/91027496/169811296-bb4c9355-d84e-4e22-a27c-7b6721894ce1.png">
 
 
 ### Student Page
